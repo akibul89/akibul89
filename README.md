@@ -6,7 +6,7 @@
 
 I am a professional Web Developer and WordPress expert. I have more than 3+ years of experience
 
-Skills: PHP / REACT / JS / HTML / CSS
+Skills: Java / Spring Boot / MySQL / PHP / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning JavaScript  
